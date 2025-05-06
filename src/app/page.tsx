@@ -1,7 +1,6 @@
 'use client';
 
 import { useRouter } from 'next/navigation';
-import EstimationGalaxy from './EstimationGalaxy';
 
 export default function LandingPage() {
   const router = useRouter();
